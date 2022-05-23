@@ -1,4 +1,5 @@
 # ocean-game
+Simple ocean game demo for DV Game Jam
 
 # Slides
 View the slides [pygame_slides.pdf](pygame_slides.pdf)
