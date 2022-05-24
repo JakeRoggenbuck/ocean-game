@@ -1,4 +1,4 @@
-# ocean-game
+# ocean-game-py
 Simple ocean game demo for DV Game Jam
 
 # Slides
